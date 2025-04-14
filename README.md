@@ -24,3 +24,4 @@
 - diagnosing output from various logs, VBoxGuestAddition, driver, kernel, make install, ...
 - Learn linux File Hierarchy Standards, proc, dev, mnt 
 - Running Xserver and twm, xclock, xeyes (is just cool)
+- Basic knowledge in cross compilation
